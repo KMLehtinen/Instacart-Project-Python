@@ -20,6 +20,8 @@ The project leverages open-source datasets from Instacart, complemented by speci
 # Stakeholders
 
 The Vice President of Marketing
+
 The Senior Vice President of Sales
+
 Instacart Customers
 
