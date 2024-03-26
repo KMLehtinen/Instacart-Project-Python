@@ -41,7 +41,10 @@ Instacart, an online grocery delivery and pickup service, is looking to enhance 
 
 - departments
 
-● Please note, the datasets listed above were created for learning purposes of the Career Foundry course and could not be linked on github.
+
+
+
+- Please note, the datasets listed above were created for learning purposes of the Career Foundry course and could not be linked on github.
 
 # Stakeholders
 
