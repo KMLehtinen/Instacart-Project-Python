@@ -2,7 +2,7 @@
 As a student of data analytics, I employed Python to uncover trends within the Instacart market. My objective was to extract insights from the data to improve marketing and sales performance at Instacart.  
 
 # Context
-Instacart, an online grocery delivery and pickup service, is looking to enhance its marketing strategies. They want to personalize the shopping experience for their customers in order to increase sales. 
+Instacart, an online grocery delivery and pickup service, is looking to enhance its marketing strategies. They want to personalize the shopping experience in order to increase sales and customer satisfaction. 
 
 # Key Questions
 What are the peak order times and days?
