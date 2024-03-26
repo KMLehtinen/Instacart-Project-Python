@@ -29,9 +29,6 @@ Instacart, an online grocery delivery and pickup service, is looking to enhance 
 - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 
-# Data Source
-The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
-
 # Instacart Data Sets
 
 - orders
@@ -44,7 +41,7 @@ The project leverages open-source datasets from Instacart, complemented by speci
 
 - departments
 
-Note: The datasets listed above were created for learning purposes of the Career Foundry course and could not be linked on github.
+● Please note, the datasets listed above were created for learning purposes of the Career Foundry course and could not be linked on github.
 
 # Stakeholders
 
