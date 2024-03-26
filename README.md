@@ -1,14 +1,10 @@
-# Instacart-Project-Python
+# InstacartAnalysis
 As a student of data analytics, I employed Python to uncover trends within the Instacart market. My objective was to extract insights from the data to enhance sales performance at Instacart. 
 
-Instacart Data Analysis Project
-Objective
-In this project, I take on the role of an analyst for Instacart to explore sales patterns and customer behaviors. The goal is to unearth insights that will inform better customer segmentation and targeted marketing strategies.
-
-Context
+# Context
 Instacart, an established online grocery platform, seeks to refine its marketing efforts. They believe that a one-size-fits-all approach isn't optimal. My analysis aims to segment customers effectively and propose targeted strategies to enhance product sales.
 
-Key Questions
+# Key Questions
 What are the peak order times and days?
 When do customers tend to spend the most?
 How can product price ranges improve marketing strategies?
@@ -17,7 +13,7 @@ How do customer demographics and behaviors vary in terms of brand loyalty, regio
 Data Source
 The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
 
-Instacart Data Sets
+# Instacart Data Sets
 Stakeholders
 The insights derived from this analysis will cater to:
 
