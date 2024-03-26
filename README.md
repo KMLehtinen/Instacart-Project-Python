@@ -6,9 +6,13 @@ Instacart, an online grocery delivery and pickup service, is looking to enhance 
 
 # Key Questions
 What are the peak order times and days?
+
 When do customers tend to spend the most?
+
 How can product price ranges improve marketing strategies?
+
 Which product departments are most popular?
+
 How do customer demographics and behaviors vary in terms of brand loyalty, regional differences, and purchasing patterns?
 
 # Data Source
