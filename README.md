@@ -34,6 +34,17 @@ The project leverages open-source datasets from Instacart, complemented by speci
 
 # Instacart Data Sets
 
+- orders
+
+- orders_products_prior
+
+- products
+
+- customers
+
+- departments
+
+Note: The datasets listed above were created for learning purposes of the Career Foundry course and could not be linked on github.
 
 # Stakeholders
 
