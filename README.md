@@ -63,8 +63,7 @@ Instacart Customers
 
 - 05 Sent to Client: The finalized report presented in Excel format.
 
-# Resources
-Please be advised that while Instacart is a legitimate company that has published its data online, the project brief attached herein has been created by CareerFoundry solely for the purpose of analysis.
+# Final Report
 
 [Final Instacart Report](https://docs.google.com/spreadsheets/d/1ucQ6LLWdKw_w531OkLP7nObpfpLK_6pQ/edit?usp=sharing&ouid=103582775182851058440&rtpof=true&sd=true)
 
