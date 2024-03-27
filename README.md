@@ -52,5 +52,5 @@ The Senior Vice President of Sales
 
 Instacart Customers
 
-[Final Instacart Report](Instacart Basket Analysis/05 Sent to client/Final report Instacart.xlsx)
+[Final Instacart Report](Instacart_Basket_Analysis/05_Sent_to_client/Final_report_Instacart.xlsx)
 
