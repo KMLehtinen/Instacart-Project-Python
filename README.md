@@ -52,6 +52,20 @@ The Senior Vice President of Sales
 
 Instacart Customers
 
+# Folders
+- 01 Project Management: Project Brief.
+
+- 02 Data: Divided into two subfolders - Original and Prepared Data (not included in commit due to large size) 
+
+- 03 Scripts: Jupyter notebooks housing the code utilized for analysis.
+
+- 04 Analysis: Segmented into two subfolders - Reports and Visualizations. 
+
+- 05 Sent to Client: The finalized report presented in Excel format.
+
+# Resources
+Please be advised that while Instacart is a legitimate company that has published its data online, the project brief attached herein has been created by CareerFoundry solely for the purpose of analysis.
+
 [Final Instacart Report](https://docs.google.com/spreadsheets/d/1ucQ6LLWdKw_w531OkLP7nObpfpLK_6pQ/edit?usp=sharing&ouid=103582775182851058440&rtpof=true&sd=true)
 
 
